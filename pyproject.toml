@@ -1,0 +1,13 @@
+dependencies = [
+    "docx>=0.2.4",
+    "ipykernel>=7.4.0",
+    "pandas>=2.2",
+    "pandas-stubs~=3.0.5",
+    "psycopg>=3.3.6",
+    "psycopg2>=2.9.13",
+    "python-docx>=1.2.0",
+    "rainbowcsv==1.0.2",
+    "requests>=2.31",
+    "beautifulsoup4>=4.12",
+    "sqlalchemy>=2.1.2",
+]
